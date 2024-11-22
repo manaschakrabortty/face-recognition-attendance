@@ -1,4 +1,5 @@
 #Face Recognition Based Attendance System--
+
 This project implements an attendance tracking system using face recognition technology. It captures video input from a webcam, recognizes faces in real-time, 
 and marks logs the attendance of known individuals in a CSV file with the current date and time.
 
